@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10004",
+  "image_type": "Periapical",
+  "tooth_number": "26",
+  "date": "2023-12-07",
+  "dentist": "Dr. D. Verma",
+  "diagnosis": "Fractured crown",
+  "notes": "Monitor progress"
+}

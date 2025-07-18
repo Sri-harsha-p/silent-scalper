@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10033",
+  "image_type": "Bitewing",
+  "tooth_number": "12",
+  "date": "2025-02-03",
+  "dentist": "Dr. C. Rao",
+  "diagnosis": "Impacted wisdom tooth",
+  "notes": "Extraction recommended"
+}

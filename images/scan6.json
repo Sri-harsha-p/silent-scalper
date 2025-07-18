@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10014",
+  "image_type": "Panoramic",
+  "tooth_number": "45",
+  "date": "2022-10-10",
+  "dentist": "Dr. D. Verma",
+  "diagnosis": "Cavity detected",
+  "notes": "Refer to specialist"
+}

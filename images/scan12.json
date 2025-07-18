@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10041",
+  "image_type": "Panoramic",
+  "tooth_number": "23",
+  "date": "2022-06-02",
+  "dentist": "Dr. D. Verma",
+  "diagnosis": "Fractured crown",
+  "notes": "Monitor progress"
+}

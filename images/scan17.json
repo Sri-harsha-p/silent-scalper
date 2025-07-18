@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10079",
+  "image_type": "Panoramic",
+  "tooth_number": "38",
+  "date": "2023-01-30",
+  "dentist": "Dr. B. Mehta",
+  "diagnosis": "Cavity detected",
+  "notes": "Monitor progress"
+}

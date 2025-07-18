@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10095",
+  "image_type": "Bitewing",
+  "tooth_number": "20",
+  "date": "2022-05-10",
+  "dentist": "Dr. A. Sharma",
+  "diagnosis": "Cavity detected",
+  "notes": "No immediate concern"
+}

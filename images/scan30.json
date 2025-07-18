@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10030",
+  "image_type": "Intraoral",
+  "tooth_number": "45",
+  "date": "2025-06-22",
+  "dentist": "Dr. C. Rao",
+  "diagnosis": "Impacted wisdom tooth",
+  "notes": "Refer to specialist"
+}

@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10098",
+  "image_type": "Periapical",
+  "tooth_number": "33",
+  "date": "2024-05-11",
+  "dentist": "Dr. C. Rao",
+  "diagnosis": "Gum infection",
+  "notes": "Monitor progress"
+}

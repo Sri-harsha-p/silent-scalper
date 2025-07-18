@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10072",
+  "image_type": "Intraoral",
+  "tooth_number": "40",
+  "date": "2022-08-21",
+  "dentist": "Dr. B. Mehta",
+  "diagnosis": "Fractured crown",
+  "notes": "Monitor progress"
+}

@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10042",
+  "image_type": "Periapical",
+  "tooth_number": "37",
+  "date": "2024-09-03",
+  "dentist": "Dr. C. Rao",
+  "diagnosis": "Impacted wisdom tooth",
+  "notes": "Schedule follow-up"
+}

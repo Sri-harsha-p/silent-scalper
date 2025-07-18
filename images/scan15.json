@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10099",
+  "image_type": "Periapical",
+  "tooth_number": "32",
+  "date": "2025-04-08",
+  "dentist": "Dr. A. Sharma",
+  "diagnosis": "Impacted wisdom tooth",
+  "notes": "Extraction recommended"
+}

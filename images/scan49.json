@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10045",
+  "image_type": "Intraoral",
+  "tooth_number": "25",
+  "date": "2023-04-29",
+  "dentist": "Dr. C. Rao",
+  "diagnosis": "Fractured crown",
+  "notes": "Schedule follow-up"
+}

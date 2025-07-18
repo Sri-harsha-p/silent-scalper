@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10091",
+  "image_type": "Bitewing",
+  "tooth_number": "18",
+  "date": "2023-03-21",
+  "dentist": "Dr. C. Rao",
+  "diagnosis": "Root canal needed",
+  "notes": "Extraction recommended"
+}

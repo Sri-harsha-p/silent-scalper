@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10000",
+  "image_type": "Bitewing",
+  "tooth_number": "41",
+  "date": "2023-05-12",
+  "dentist": "Dr. A. Sharma",
+  "diagnosis": "Impacted wisdom tooth",
+  "notes": "No immediate concern"
+}

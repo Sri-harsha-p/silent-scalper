@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10073",
+  "image_type": "Bitewing",
+  "tooth_number": "43",
+  "date": "2025-06-27",
+  "dentist": "Dr. B. Mehta",
+  "diagnosis": "Root canal needed",
+  "notes": "Monitor progress"
+}

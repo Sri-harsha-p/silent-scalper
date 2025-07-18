@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10093",
+  "image_type": "Panoramic",
+  "tooth_number": "38",
+  "date": "2023-05-30",
+  "dentist": "Dr. D. Verma",
+  "diagnosis": "Cavity detected",
+  "notes": "No immediate concern"
+}

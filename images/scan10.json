@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10038",
+  "image_type": "Intraoral",
+  "tooth_number": "15",
+  "date": "2024-06-04",
+  "dentist": "Dr. D. Verma",
+  "diagnosis": "Root canal needed",
+  "notes": "Schedule follow-up"
+}

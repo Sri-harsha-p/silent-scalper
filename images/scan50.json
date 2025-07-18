@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10001",
+  "image_type": "Bitewing",
+  "tooth_number": "24",
+  "date": "2024-05-21",
+  "dentist": "Dr. C. Rao",
+  "diagnosis": "Fractured crown",
+  "notes": "Extraction recommended"
+}

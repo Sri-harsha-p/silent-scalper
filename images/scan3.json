@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10026",
+  "image_type": "Intraoral",
+  "tooth_number": "22",
+  "date": "2022-06-30",
+  "dentist": "Dr. B. Mehta",
+  "diagnosis": "Gum infection",
+  "notes": "Refer to specialist"
+}

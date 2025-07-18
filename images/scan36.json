@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10024",
+  "image_type": "Bitewing",
+  "tooth_number": "40",
+  "date": "2022-11-10",
+  "dentist": "Dr. B. Mehta",
+  "diagnosis": "Healthy tooth",
+  "notes": "Schedule follow-up"
+}

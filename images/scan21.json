@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10020",
+  "image_type": "Panoramic",
+  "tooth_number": "16",
+  "date": "2023-03-15",
+  "dentist": "Dr. B. Mehta",
+  "diagnosis": "Gum infection",
+  "notes": "Refer to specialist"
+}

@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10000",
+  "image_type": "Periapical",
+  "tooth_number": "25",
+  "date": "2024-01-03",
+  "dentist": "Dr. B. Mehta",
+  "diagnosis": "Root canal needed",
+  "notes": "No immediate concern"
+}

@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10089",
+  "image_type": "Panoramic",
+  "tooth_number": "46",
+  "date": "2024-05-22",
+  "dentist": "Dr. A. Sharma",
+  "diagnosis": "Gum infection",
+  "notes": "Monitor progress"
+}

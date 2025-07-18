@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10031",
+  "image_type": "Periapical",
+  "tooth_number": "42",
+  "date": "2022-01-12",
+  "dentist": "Dr. B. Mehta",
+  "diagnosis": "Gum infection",
+  "notes": "Monitor progress"
+}

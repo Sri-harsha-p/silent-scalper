@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10016",
+  "image_type": "Panoramic",
+  "tooth_number": "25",
+  "date": "2022-06-08",
+  "dentist": "Dr. C. Rao",
+  "diagnosis": "Root canal needed",
+  "notes": "No immediate concern"
+}

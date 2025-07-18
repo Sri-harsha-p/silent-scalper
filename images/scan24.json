@@ -1,0 +1,9 @@
+{
+  "patient_id": "DENT10099",
+  "image_type": "Bitewing",
+  "tooth_number": "19",
+  "date": "2024-05-18",
+  "dentist": "Dr. A. Sharma",
+  "diagnosis": "Root canal needed",
+  "notes": "Schedule follow-up"
+}
